@@ -1,0 +1,7 @@
+Pertemuan 8 (Overiding)
+
+- Pengertian Overiding
+- Contoh
+- Aturan Overiding Method
+- Modifikasi pada Konstruktor
+

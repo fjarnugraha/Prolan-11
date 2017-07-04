@@ -1,0 +1,14 @@
+Pertemuan 3 (Input Output)
+
+	Output di Java	
+- Menampilkan output pada program dengan :
+- Menggunakan System.out.print();	tanpa enter
+  Menggunakan System.out.println();	dengan enter
+
+	Input di java
+- Memasukan fungsi Scanner pada program yg berfungsi untuk membirkan inputan dan
+  menampung sail inputan tersebut
+- Dengan menginputkan Import java.util.Scanner sehingga Scanner namaObjek = new Scanner (System.in)
+
+	Program
+- Membuat Project dengan pengaplikasian Input dan Ouput mengenai data diri pada java

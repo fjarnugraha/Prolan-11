@@ -1,0 +1,7 @@
+Pertemuan 6 (Method, Konstruktor, Atribut, This)
+
+- Pengertian Method
+- Macam-macam Method
+- Mengenal dan menggunakan konstruktor
+- Mengenal dan menggunakan Atribut
+- penggunaan Keyword This

@@ -1,0 +1,20 @@
+Pertemuan 4 (Kelas dan Objek)
+
+	Kelas dan Objek
+- Kelas merupakan bentuk klasifikasi dari objek yang ada di dunia
+- Dalam kelas terdefinisi data dan operasi dari setiap objek yang diklasifikasikan pada kelas tersebut 
+- Dalam kelas terdapat data yg dikenal sebagai atribut, dan operasi yag dikenal sebagai method atau fungsi
+- Objek-objek memiliki kesamaan dari segi data dan fungsi diklasifikasikan pada kelas tertentu
+- Objek adalah instansiasi atau perwujudan dari kelas, artinya objek memiliki data dan fungsi yang dimiliki oleh kelas
+
+	Kelas
+- Didefinisikan dalam teks program dengan cara : class namaKelas pada java
+- Kelas memiliki cara akses yaitu :
+- public (Dapat diakses dari kelas manapun)
+- Private (hanya dapat diakses dari kelas itu sendiri)
+- Protected (Hanya dapat diakses dari kelas itu sendiri dan kelas turuannya)
+- Pengaplikasian Kelas di program java
+- Pengaplikasian Objek di program java
+
+	Program
+- Membuat Kelas dan Objek baru pada program

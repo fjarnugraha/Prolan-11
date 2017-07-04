@@ -1,0 +1,9 @@
+Pertemuan 12 (Generic Class)
+
+	Kelas Generic
+- Pengertian kelas generic dan fungsi nya
+
+	Generic VS Inheritance
+- Perbandingan apa yang dimiliki inheritance dan Generic
+
+- Macam-macam Kelas Generic

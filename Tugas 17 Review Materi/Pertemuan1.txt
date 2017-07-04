@@ -1,0 +1,40 @@
+Pertemuan 1 (Pengenalan Java)
+
+	Aturan Perkuliahan
+- Pembahasan mengenai aturan perkuliahan, silabus, penilaian dll
+
+	Java
+- Java adalah bahasa pemrograman yg di inisialisasi oleh James Gosling
+- Karakteristik Java (sederhana, berorientasi objek, interpreter, aman, reliable,
+  arsitektural, high performance, multithreaded dan dinamis)
+- Java Runtime Environment (JRE) adalah sebuah aplikasi yang digunakan untuk menjalankan
+  aplikasi atau program di java
+- Java Development kit(JDK) adalah aplikasi yang digunakan untuk membuat program java
+- di dalam JDK terdapat compiler untuk mengkompilasi kode java menjadi bytecode(.class)
+
+	Github
+- Membuat account github sebagai sarana pengumpulan tugas dan latihan pada program java
+  yang telah dibuat
+
+	Instalasi
+- Instalasi JDK (mengunduh dan kemudian menginstal aplikasi pada laptop/komputer)
+- Instalasi Netbeans (mengunduh dan kemudian menginstal aplikasi pada laptop/komputer)
+
+	Netbeans
+- Salah satu applikasi untuk membuat project java dengan cara :
+- buka aplikasi netbeans, klik file menu - new project, pilih java di categories lalu next
+- beri nama project pilh lokasi penyimpanan, selesai
+		
+	CMD
+- Menjalankan Java di CMD dengan menekan tombol Windows + R lalu ketik CMD, OK
+- ketik "javac" <spasi> namafile.java untuk perintah mengcompile
+- ketik "java" <spasi> namafile untuk perintah menjalankan program
+
+	Path
+- MenSetting Path untuk java dengan cara :
+- buka direktori java, copy alamat, lalu buka windows explorer dan klik advanced system settings
+- klik environment variables, lalu klik path pada system variables dan paste kan alamat direktori
+
+	Progam
+- Proram pertama yaitu membuat source kode "Belajar Java Yuks" dengan menggunakan 
+  System.out.println (perintah untuk menampilkan output ke monitor)

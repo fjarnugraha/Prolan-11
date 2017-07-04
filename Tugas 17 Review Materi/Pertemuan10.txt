@@ -1,0 +1,6 @@
+Pertemuan 10 (Encapsulation)
+
+	Enkapsulasi
+- Enkapsulasi (pembungkusan) salah satu konsep yang mempunyai proses membungkus data dan fungsi
+  dari sebuah kelas menjadi sebuah unit
+- Data yang di set private hanya dapat diakses dan di modifikasi melalui method public yang disebut dengan getter-setter

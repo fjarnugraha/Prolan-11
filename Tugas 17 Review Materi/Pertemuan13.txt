@@ -1,0 +1,8 @@
+Pertemuan 13 (Package)
+
+	Package
+- Digunakan untuk menghindari penamaan kelas, interface, dll
+- berguna sebagai akses kontrol dan penempatan atau pencarian kelas, interface dll
+- dapat didefinissikan sebagai sekumpulan kelas, interface yang saling berhubungan satu sama lain
+- memberikan proteksi pada kelas, agar tidak sembarangan di akses ole keas lain
+

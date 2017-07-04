@@ -1,0 +1,29 @@
+Pertemuan 11 (Interfaces)
+
+	Interface
+- Interface adalah sebuah reference type yang mirip dengan kelas
+- Interface berisi sekumpulan kelas
+- Interface mirip dengan kelas, kelas menjelaskan atribut dan method dari sebuah objek
+  tetapi interface memiliki method-method yang dapat diimplementasi oleh kelas
+
+	Kelas VS Interface
+- Kesamaan :
+  Memiliki method didalamnya
+  berekstensi .java
+  nama Interface sama dengan nama file
+- Perbedaan
+  Interface tidak dapat diinstansiasi
+  Interface tidak memiliki konstruktor
+  Semua method pada interface adalah method abstrak
+  Interface tidak memiliki instance variabel
+  Interface tidak di extends oleh kelas
+  Interface dapat mengextends beberapa interface
+
+	Deklarasi Interface
+- Menggunakan Keyword "interface"
+
+	Aturan
+- Sebuah kelas dapat mengimplement lebih dari 1 interface
+- Sebuah kelas dapat mengextends 1 kelas tapi bisa mengimplement banyak interface
+- sebuah interface dapat mengextends beberapa interface
+- sebuah interface tidak bisa mengimplement interface lain

@@ -1,0 +1,5 @@
+Pertemuan 7 (Inheritance)
+
+- Pengertian dan pengenalan konsep inheritance (pewarisan) yang digambarkan
+  dengan hubungan kelas ayah dan kelas anak
+- Keyword Super pada java

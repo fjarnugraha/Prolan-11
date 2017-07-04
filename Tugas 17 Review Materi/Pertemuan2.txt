@@ -1,0 +1,17 @@
+Pertemuan 2 (Object Oriented Programming)
+
+	OOP
+- Meyer (1997), sistem yang dibangun berdasarkan metode berorientasi objek adalah
+  sebuah sistem yg komponennya di enkapsulasi menjadi kelompok data dan fungsi yang
+  dapat mewarisi atribut dan sifat dari komponen-komponen lainnya agar berinteraksi
+  satu sama lain
+- karakteristik PBO (abstraksi, enkapsulasi, generik, pewarisan, polymorphism, spesialisasi,
+  komunikasi antar objek, component dan pattern)
+- Bahasa pada PBO Murni OO menggunakanan Java, Smalltalk, Eiffel sedangkan Procedural OO menggunakan C++
+
+	Type Data di Java
+- Tipe data primitif (yang telah ditetapkan oleh java dan memiliki keyword : byte, int, float, boolean, short, long, double, char)
+- Tipe data objek (dari instansiasi kelas : String, calendar, date)
+
+	Program
+- Membuat program dengan pengaplikasian type data ke dalam sorce kode seperti String, byte, short, int, dll

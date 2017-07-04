@@ -1,0 +1,5 @@
+Pertemuan 5 (Type Data)
+
+- Pengertian type data
+- Macam-macam type data
+- Pemakaian Type data dalam program java
